@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://35.154.212.182:8081/repository/practice_release/</url>
+	      <url>http://35.154.212.182:8081/repository/karthik_release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.154.212.182:8081/repository/practice_snap/</url>
+	      <url>http://35.154.212.182:8081/repository/karthik_snap/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
